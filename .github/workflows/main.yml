@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harley Sund | Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f7f7f7;
+            color: #333;
+        }
+        header {
+            background-color: #111;
+            color: white;
+            text-align: center;
+            padding: 40px 20px;
+        }
+        section {
+            max-width: 900px;
+            margin: 30px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+        }
+        h1, h2 {
+            margin-bottom: 10px;
+        }
+        h2 {
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 5px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        .contact {
+            font-size: 14px;
+            margin-top: 10px;
+        }
+        .job-title {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Harley Sund</h1>
+    <p class="contact">
+        Lexington, NE | (308) 746-4328 | 60711808@nebraska.edu
+    </p>
+</header>
+
+<section>
+    <h2>Education</h2>
+    <p><strong>University of Nebraska–Lincoln</strong> — Lincoln, NE</p>
+    <p>Bachelor of Science in Business Administration (Dec 2027)</p>
+    <p>Major: Business Management | GPA: 3.44</p>
+</section>
+
+<section>
+    <h2>Experience</h2>
+
+    <p class="job-title">Preschool Cadet Teacher — Early Learning Academy</p>
+    <p><em>Jan 2024 – May 2025</em></p>
+    <ul>
+        <li>Led 10–15 interactive activities to support early childhood development</li>
+        <li>Built strong relationships with students and teachers</li>
+    </ul>
+
+    <p class="job-title">Host/Server — Nautical Rose</p>
+    <p><em>Mar 2024 – June 2025</em></p>
+    <ul>
+        <li>Managed seating and waitlists for 50+ guests per shift</li>
+        <li>Served 20–30 tables per shift ensuring customer satisfaction</li>
+    </ul>
+
+</section>
+
+<section>
+    <h2>Involvement</h2>
+
+    <p class="job-title">Alpha Chi Omega</p>
+    <p><em>Aug 2025 – Present</em></p>
+    <ul>
+        <li>Promote responsibility and engagement within the chapter</li>
+    </ul>
+
+    <p class="job-title">Lexington Leadership Council</p>
+    <p><em>Aug 2024 – May 2025</em></p>
+    <ul>
+        <li>Organized 5+ school events to increase student engagement</li>
+        <li>Collaborated with students and staff for feedback and improvements</li>
+    </ul>
+
+    <p class="job-title">Lexington Volleyball Team</p>
+    <p><em>Aug 2021 – Nov 2024</em></p>
+    <ul>
+        <li>Earned Varsity Letters and multiple awards</li>
+        <li>Contributed to team success and sportsmanship</li>
+    </ul>
+
+</section>
+
+<section>
+    <h2>Volunteer Experience</h2>
+    <p class="job-title">Sunday School Kids Worship</p>
+    <p><em>Nov 2023 – Present</em></p>
+    <ul>
+        <li>Engaged children in structured activities to support learning</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Honors</h2>
+    <ul>
+        <li>Academic All Conference (2024, 2025)</li>
+        <li>Honor Roll (All A’s & B’s, 2024–2025)</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Skills</h2>
+    <ul>
+        <li>Google Docs</li>
+        <li>Google Slides</li>
+        <li>Microsoft Word</li>
+    </ul>
+</section>
+
+</body>
+</html>
